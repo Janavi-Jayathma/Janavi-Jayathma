@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ea/86/2c/ea862c2c1781bb4233ef774f8dfe7f19.gif)]
+![MasterHead](https://i.pinimg.com/originals/ea/86/2c/ea862c2c1781bb4233ef774f8dfe7f19.gif)
 
 <h1 align="center">Hi 👋, I'm Janavi Jayathma</h1>
 <h3 align="center">An undergraduate of Software Engineering</h3>
