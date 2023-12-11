@@ -1,4 +1,4 @@
-![MasterHead]<img height="400" src="(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_52683-59908.jpg?w=1380&t=st=1702293637~exp=1702294237~hmac=fce31f539a30f2da8e5a4dc355528bfc5c8bf63bcc1a7d049368bcc09344c68f)">
+![MasterHead](https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_52683-59908.jpg?w=1380&t=st=1702293637~exp=1702294237~hmac=fce31f539a30f2da8e5a4dc355528bfc5c8bf63bcc1a7d049368bcc09344c68f)
 
 <h1 align="center">Hi 👋, I'm Janavi Jayathma</h1>
 <h3 align="center">An undergraduate of Software Engineering</h3>
